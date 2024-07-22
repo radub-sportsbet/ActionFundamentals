@@ -12,7 +12,7 @@ Repo for the `GitHub Actions Fundamentals` training.
 - Know the different types of __actions__ and how to create/publish them
 - Understand the different hosting options for __runners__
 - Use __Secrets__ and __Environments__ for staged deployments
-- Workflow templates and __reusable workflows__
+- Workflow templates and __reusable workflows___
 
 ## Getting ready
 
